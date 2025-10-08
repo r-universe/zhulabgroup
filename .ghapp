@@ -1,0 +1,10 @@
+{
+  "id": 89165214,
+  "created_at": "2025-10-08T02:42:20.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["BatchPlanet"]
+}
